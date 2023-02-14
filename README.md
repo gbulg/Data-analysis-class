@@ -1,7 +1,7 @@
 # Data-analysis-class
 Homeworks for Data Analysis II class at HSE, autumn 2022
 
-### Links to view notebooks innbviewer:
+### Links to view notebooks in nbviewer:
 
 [**Homework 1**](https://nbviewer.org/github/gbulg/Data-analysis-class/blob/629d6c8261f58d3a120a95a8b1e753b6c241d6e4/HW1/hw1.ipynb)
 
